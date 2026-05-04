@@ -15,15 +15,11 @@
 - Engenharia de Software  
 
 ---
+### 🚀  Tecnologias
 
-###  Tecnologias
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,c" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,mysql,c" />
 </p>
-
----
-
-
 
 ###  GitHub
 
@@ -36,7 +32,7 @@
 
 ---
 
-###  Streak
+###  Sequencia
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ellenmariane&theme=tokyonight" />
 </p>
@@ -48,8 +44,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellenmariane&theme=tokyo-night" />
 </p>
-### Contatos
 
+###  Contato
 <p align="center">
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white" />
