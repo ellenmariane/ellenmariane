@@ -8,12 +8,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ellenmariane
           outputs: dist/snake.svg
 
-      - uses: actions/upload-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/snake.svg
