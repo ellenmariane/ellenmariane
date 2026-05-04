@@ -1,21 +1,24 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Ellen%20Mariane&textBg=false&descAlign=60&reversal=false)
-
+<div align = "center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Ellen%20Mariane&textBg=false&descAlign=60&reversal=false">
+</div>
 
 
 <h3 align="center">Estudante de Engenharia de Software</h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=30&center=true&vCenter=true&width=1000&lines=Buscando+estágio+em+Dev+Web;Aprendendo+JavaScript;Construindo+projetos" />
 </p>
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
----
+
 
 ###  Sobre mim
 - Idade: 19  
 - Poços de Caldas -MG 
 - Engenharia de Software  
 
----
-### 🚀  Tecnologias
+
+
+ 🚀  Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,mysql,c" />
@@ -30,14 +33,14 @@
   
 </p>
 
----
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ###  Sequencia
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ellenmariane&theme=tokyonight" />
 </p>
 
----
+
 
 ###  Contribuições
 
