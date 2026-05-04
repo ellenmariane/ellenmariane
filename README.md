@@ -16,31 +16,35 @@
 
 ---
 
-### 🚀 Tecnologias
+###  Tecnologias
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,c" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+
+
+###  GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellenmariane&show_icons=true&theme=tokyonight" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ellenmariane&show_icons=true&theme=radical"
 
+  
+</p>
 
 ---
 
-### 🔥 Streak
+###  Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ellenmariane&theme=tokyonight" />
 </p>
 
 ---
 
-### 🐍 Contribuições
+###  Contribuições
 
 <p align="center">
-  <img src="https://github.com/ellenmariane/ellenmariane/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellenmariane&theme=tokyo-night" />
 </p>
