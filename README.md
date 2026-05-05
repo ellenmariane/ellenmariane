@@ -5,7 +5,7 @@
 
 <h3 align="center">Estudante de Engenharia de Software</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=30&center=true&vCenter=true&width=1000&lines=Buscando+estágio+em+Dev+Web;Aprendendo+JavaScript;Construindo+projetos" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=30&center=true&vCenter=true&width=1000&lines=Buscando+estágio+em+Web+Developer+👾;Aprendendo+JavaScript+🚀;Construindo+projetos" />
 </p>
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
