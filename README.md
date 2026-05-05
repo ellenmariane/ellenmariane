@@ -33,6 +33,13 @@
       <img src="https://skillicons.dev/icons?i=c" width="50"/>
     </td>
   </tr>
+<td><b>Bibliotecas</b>
+  
+</td>
+    <td>
+<img align="center" alt="jQuery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+    </td>
+  </tr>
 
   <tr>
     <td><b>Frontend / Web</b></td>
