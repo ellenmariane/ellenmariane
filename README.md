@@ -17,32 +17,58 @@
 - Engenharia de Software  
 
 
+<h2>Habilidades Técnicas e Ferramentas</h2>
 
- 🚀  Tecnologias
+<table align="center">
+  <tr>
+    <th>Categoria</th>
+    <th>Tecnologias</th>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,mysql,c" />
-</p>
+  <tr>
+    <td><b>Linguagens / Frameworks</b></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/>
+      <img src="https://skillicons.dev/icons?i=c" width="50"/>
+    </td>
+  </tr>
 
-###  GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ellenmariane&show_icons=true&theme=radical"
-
+  <tr>
+    <td><b>Frontend / Web</b></td>
+    <td>
+       <img src="https://skillicons.dev/icons?i=html" width="50"/>
+      <img src="https://skillicons.dev/icons?i=css" width="50"/>   
+    </td>
+  </tr>
+<td><b>Ferramentas</b>
   
-</p>
+</td>
+    <td>
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+    </td>
+  </tr>
 
-<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+  <tr>
+    <td><b>Estudando</b></td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
+    </td>
+  </tr>
 
-###  Sequencia
+</table>
+
+
+<h2>Sequencia</h2>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ellenmariane&theme=tokyonight" />
 </p>
 
 
 
-###  Contribuições
+ 
+<h2>Contribuições</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellenmariane&theme=tokyo-night" />
@@ -57,7 +83,7 @@
   <a href="https://www.linkedin.com/in/seu-link">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
   <a href="https://github.com/ellenmariane">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&textBg=false&descAlign=60&reversal=false&section=footer" />
   </a>
