@@ -69,7 +69,7 @@
 
 <h2>Sequencia</h2>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ellenmariane&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=ellenmariane&theme=tokyonight&include_all_commits=true" />
 </p>
 
 
