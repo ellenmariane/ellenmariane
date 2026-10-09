@@ -69,8 +69,12 @@
 
 <h2>Sequencia</h2>
 <p align="center">
+  <div>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=EllenMariane&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=07050f&title_color=a855f7&icon_color=c084fc&text_color=f0eaff" />
+</div>
+  <div>
 <img src="https://streak-stats.demolab.com?user=ellenmariane&theme=tokyonight&include_all_commits=true" />
+</div>
 </p>
 
 
